@@ -1,16 +1,17 @@
-### Hi there 👋
+## About Me
 
-<!--
-**cmronjoyner/cmronjoyner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cameron has 8+ years of experience in software development, focusing on Python, Java, and JavaScript. He's proficient in both back-end and front-end development and has a proven track record of delivering high-quality software solutions for diverse projects.
 
-Here are some ideas to get you started:
+Cameron also loves learning new things and he's all about coming up with new ideas, helping out team members, and working together with everyone to build awesome software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Backend: Python (Django, Flask), Java (Spring Boot), Node.js
+- Frontend: HTML5, CSS3, JavaScript, jQuery, Angular, React
+- Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- API Development & Integration: RESTful APIs, GraphQL
+- DevOps Tools: Docker, Kubernetes, Jenkins, GitLab CI/CD
+- Cloud Platforms: AWS, Azure, Google Cloud Platform (GCP)
+- Version Control: Git, GitHub, Bitbucket
+- Project Management Tools: Jira, Trello, Asana
+- Agile Methodologies: Scrum, Kanban
