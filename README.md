@@ -1,17 +1,16 @@
 ## About Me
 
-Cameron has 8+ years of experience in software development, focusing on Python, Java, and JavaScript. He's proficient in both back-end and front-end development and has a proven track record of delivering high-quality software solutions for diverse projects.
+I have 8+ years of experience in web development, automation, and AI/ML model integration. Especially, I have a strong background in using Python and JavaScript frameworks like Django, Flask, FastAPI, Node.js, React, and Vue.js to build scalable and efficient web applications.
 
-Cameron also loves learning new things and he's all about coming up with new ideas, helping out team members, and working together with everyone to build awesome software.
+Throughout my career, I’ve collaborated closely with cross-functional teams, contributing to successfully delivering complex projects. My teamwork experience includes working with developers, designers, and product managers to ensure seamless integration and alignment with project goals. I’m consistently going the extra mile to ensure projects are completed on time and to the highest standard.
 
 ## Skills
 
-- Backend: Python (Django, Flask), Java (Spring Boot), Node.js
-- Frontend: HTML5, CSS3, JavaScript, jQuery, Angular, React
-- Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- Backend Development: Python (Django, Flask, FastAPI), Node.js
+- Frontend Development: React/Next.js, Vue.js/Nuxt.js, Tailwind CSS
 - API Development & Integration: RESTful APIs, GraphQL
-- DevOps Tools: Docker, Kubernetes, Jenkins, GitLab CI/CD
-- Cloud Platforms: AWS, Azure, Google Cloud Platform (GCP)
-- Version Control: Git, GitHub, Bitbucket
-- Project Management Tools: Jira, Trello, Asana
-- Agile Methodologies: Scrum, Kanban
+- Database Management: PostgreSQL, MySQL, MongoDB, Redis
+- Cloud Platforms: AWS (Lambda, EC2, S3, RDS), Azure, GCP
+- DevOps: Docker, Kubernetes, CI/CD (Jenkins, CircleCI)
+- Version Control: Git, GitHub, GitLab, Bitbucket
+- Unit Testing: PyTest, Jest, Mocha, Cypress
