@@ -6,8 +6,8 @@ I also bring hands-on experience in AI and machine learning. I’ve developed an
 
 ## Skills
 
-- Backend Development: Python (Django, Flask, FastAPI), Node.js
-- Frontend Development: React/Next.js, Vue.js/Nuxt.js, Tailwind CSS, Bootstrap
+- Back-End Development: Python (Django, Flask, FastAPI), Node.js
+- Front-End Development: React/Next.js, Vue.js/Nuxt.js, Tailwind CSS, Bootstrap
 - Database Management: PostgreSQL, MySQL, MongoDB, Redis
 - API Development & Integration: RESTful APIs, GraphQL
 - AI/ML: OpenAI GPT models, TensorFlow, Hugging Face, AI-powered automation, NLP & chatbot
