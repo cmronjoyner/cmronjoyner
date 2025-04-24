@@ -10,8 +10,8 @@ I also bring hands-on experience in AI and machine learning. I’ve developed an
 - Frontend Development: React/Next.js, Vue.js/Nuxt.js, Tailwind CSS
 - API Development & Integration: RESTful APIs, GraphQL
 - Database Management: PostgreSQL, MySQL, MongoDB, Redis
+- Unit Testing: PyTest, Jest, Mocha, Cypress
 - Cloud Platforms: AWS (Lambda, EC2, S3, RDS), Google Cloud, Supabase
 - DevOps: Docker, Kubernetes, CI/CD (Jenkins, CircleCI)
 - Version Control: Git, GitHub, GitLab, Bitbucket
-- Unit Testing: PyTest, Jest, Mocha, Cypress
 - AI/ML: OpenAI GPT models, TensorFlow, Hugging Face, AI-powered automation, NLP & chatbot
