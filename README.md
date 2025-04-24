@@ -6,12 +6,13 @@ I also bring hands-on experience in AI and machine learning. I’ve developed an
 
 ## Skills
 
-- Frontend Development: React/Next.js, Vue.js/Nuxt.js, Tailwind CSS
+- Frontend Development: React/Next.js, Vue.js/Nuxt.js, Tailwind CSS, Bootstrap
 - Backend Development: Python (Django, Flask, FastAPI), Node.js
 - Database Management: PostgreSQL, MySQL, MongoDB, Redis
 - API Development & Integration: RESTful APIs, GraphQL
+- AI/ML: OpenAI GPT models, TensorFlow, Hugging Face, AI-powered automation, NLP & chatbot
 - Unit Testing: PyTest, Jest, Mocha, Cypress
 - Cloud Platforms: AWS (Lambda, EC2, S3, RDS), Google Cloud, Supabase
 - DevOps: Docker, Kubernetes, CI/CD (Jenkins, CircleCI)
 - Version Control: Git, GitHub, GitLab, Bitbucket
-- AI/ML: OpenAI GPT models, TensorFlow, Hugging Face, AI-powered automation, NLP & chatbot
+- Agile: Jira, Trello, Asana, ClickUp
