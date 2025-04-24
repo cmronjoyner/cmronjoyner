@@ -1,8 +1,8 @@
 ## About Me
 
-I have 8+ years of experience in web development, automation, and AI/ML model integration. Especially, I have a strong background in using Python and JavaScript frameworks like Django, Flask, FastAPI, Node.js, React, and Vue.js to build scalable and efficient web applications.
+I'm a full-stack developer with over 8 years of experience building high-performance web applications. I specialize in both backend and frontend development, working with Python and JavaScript frameworks like Django, FastAPI, React, and Node.js. I design scalable, reliable solutions using cloud platforms such as AWS, and have a strong background in API development, database management, and performance optimization for both web and mobile platforms. Clean, maintainable code and a focus on product quality are central to my approach.
 
-Throughout my career, I’ve collaborated closely with cross-functional teams, contributing to successfully delivering complex projects. My teamwork experience includes working with developers, designers, and product managers to ensure seamless integration and alignment with project goals. I’m consistently going the extra mile to ensure projects are completed on time and to the highest standard.
+I also bring hands-on experience in AI and machine learning. I’ve developed and integrated intelligent solutions - including chatbots, recommendation engines, and automation tools - using models like OpenAI’s GPT, TensorFlow, and Hugging Face Transformers. My skill set includes fine-tuning models, deploying them in production environments, and embedding AI-driven insights directly into applications.
 
 ## Skills
 
@@ -10,7 +10,8 @@ Throughout my career, I’ve collaborated closely with cross-functional teams, c
 - Frontend Development: React/Next.js, Vue.js/Nuxt.js, Tailwind CSS
 - API Development & Integration: RESTful APIs, GraphQL
 - Database Management: PostgreSQL, MySQL, MongoDB, Redis
-- Cloud Platforms: AWS (Lambda, EC2, S3, RDS), Azure, GCP
+- Cloud Platforms: AWS (Lambda, EC2, S3, RDS), Google Cloud, Supabase
 - DevOps: Docker, Kubernetes, CI/CD (Jenkins, CircleCI)
 - Version Control: Git, GitHub, GitLab, Bitbucket
 - Unit Testing: PyTest, Jest, Mocha, Cypress
+- AI/ML: OpenAI GPT models, TensorFlow, Hugging Face, AI-powered automation, NLP & chatbot
